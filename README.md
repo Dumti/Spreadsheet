@@ -10,4 +10,4 @@
 
 ## LOG
 > Created new file 'DEX' (spreadsheet/sprites/pokemon/dex)
->
+> Fixed typo carbominable -> crabominable
