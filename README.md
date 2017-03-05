@@ -8,4 +8,4 @@ icon imagaes - source: pokestadium
 
 3d shiny images -source: pokestadium and pokemondb
 
-pokeballs icon and dream ver - bulbapedia
+pokeballs icon and dream ver - source: bulbapedia
